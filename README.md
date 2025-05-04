@@ -39,3 +39,7 @@ Lastly, we performed file deletion using the delete() method. This task is impor
 Conclusion
 
 In this project, using Java and Notepad, I learned how to create, modify, rename, and delete files using basic file handling classes. These tasks are essential for building any Java application that needs to store or manage data efficiently, and doing it through Notepad helped me understand the basics clearly, without using any advanced tools.#
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f290b4f1-777c-41eb-a778-ee1347212136)
